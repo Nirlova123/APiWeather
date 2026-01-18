@@ -197,17 +197,3 @@ This project is **MIT Licensed** — see the [LICENSE](LICENSE) file for details
 Feel free to reach out for collaboration or improvement suggestions.
 
 ---
-
-```
-
----
-
-If you want, I can:
-
-✅ Add **badges** (build, deploy, coverage)  
-✅ Add **screenshots and demo link section**  
-✅ Customize features based on your implementation (e.g., hourly forecast, theme mode)  
-
-Just share a bit more about what your app supports!
-::contentReference[oaicite:0]{index=0}
-```
