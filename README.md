@@ -26,7 +26,7 @@
 
 ## 🧠 Overview
 
-APiWeather provides weather information such as **current weather**, **5-day forecast**, and additional meteorological details for any city worldwide. It demonstrates:
+APiWeather provides weather information such as **current weather temperature ,wind speed, humidity**, and additional meteorological details for any city worldwide. It demonstrates:
 
 ✔ Full-stack development with **Next.js** and **API routes**  
 ✔ Robust integration with external weather APIs  
