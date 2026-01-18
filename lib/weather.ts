@@ -1,7 +1,7 @@
 // lib/weather.ts
 
 const API_KEY = process.env.NEXT_PUBLIC_WEATHER_API_KEY;
-const BASE_URL = "https://api.weatherapi.com/v1/current.json";
+const BASE_URL = process.env.NEXT_PUBLIC_WEATHER_API_URL;
 
 export async function getWeather(city: string) {
   if (!city) return null;
